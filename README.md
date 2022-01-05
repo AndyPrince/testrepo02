@@ -4,4 +4,5 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 
 This repository is built step by step in the tutorial.
 
-New line 05/01/22-09.49
+New line GitHub 05/01/22-09.49
+New line GitHub 05/01/22-09.54
