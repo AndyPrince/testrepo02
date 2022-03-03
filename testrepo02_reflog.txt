@@ -1,0 +1,75 @@
+8fb8e3d HEAD@{0}: commit: Merge branch 'master' of https://github.com/AndyPrince/testrepo02.git
+3750fb6 HEAD@{1}: commit: Update in Eclipse
+78e1bd5 HEAD@{2}: merge branch 'master' of https://github.com/AndyPrince/testrepo02.git: Fast-forward
+93d2799 HEAD@{3}: commit: Does GitHub update too???
+461c7af HEAD@{4}: checkout: moving from hello-world-images02 to master
+798f942 HEAD@{5}: commit: fresh images02
+dbf515b HEAD@{6}: checkout: moving from master to hello-world-images02
+461c7af HEAD@{7}: commit: fresh start master
+9e45745 HEAD@{8}: checkout: moving from hello-world-images02 to master
+dbf515b HEAD@{9}: checkout: moving from master to hello-world-images02
+9e45745 HEAD@{10}: merge refs/heads/hello-world-images02: Merge made by recursive.
+9ecb420 HEAD@{11}: checkout: moving from hello-world-images02 to master
+dbf515b HEAD@{12}: commit: <p>04/01/22-13:57  hello-world-images02 images02</p>
+cc81626 HEAD@{13}: checkout: moving from master to hello-world-images02
+9ecb420 HEAD@{14}: commit: <p>hello-world-images02 master</p>
+d95b4e4 HEAD@{15}: merge refs/heads/hello-world-images02: Merge made by recursive.
+921f037 HEAD@{16}: checkout: moving from hello-world-images02 to master
+cc81626 HEAD@{17}: commit: +1 14:04
+3b0f241 HEAD@{18}: checkout: moving from master to hello-world-images02
+921f037 HEAD@{19}: commit: Inconsistent merge state: could not find file MERGE_MSG in .git folder. This file contains the commit message for a merge commit.
+9a47a7f HEAD@{20}: merge refs/heads/hello-world-images02: Merge made by recursive.
+f970999 HEAD@{21}: commit: +1 line 13:59  master
+c27a1a7 HEAD@{22}: checkout: moving from hello-world-images02 to master
+3b0f241 HEAD@{23}: commit: added 3 lines 13:57
+9311b47 HEAD@{24}: checkout: moving from master to hello-world-images02
+c27a1a7 HEAD@{25}: commit: Merge remote-tracking branch 'origin/hello-world-images02'
+6af56c6 HEAD@{26}: checkout: moving from hello-world-images02 to master
+9311b47 HEAD@{27}: commit: 11:03 to s02
+37930ba HEAD@{28}: checkout: moving from master to hello-world-images02
+6af56c6 HEAD@{29}: commit: 11:02 to master
+7dd0d84 HEAD@{30}: merge refs/heads/hello-world-images02: Merge made by recursive.
+4ff2f26 HEAD@{31}: checkout: moving from hello-world-images02 to master
+37930ba HEAD@{32}: commit: Added 11:00 line to s02
+7b55f5a HEAD@{33}: checkout: moving from master to hello-world-images02
+4ff2f26 HEAD@{34}: merge refs/heads/hello-world-images02: Merge made by recursive.
+2feacd9 HEAD@{35}: commit: Added .project to Master
+d16404a HEAD@{36}: checkout: moving from hello-world-images02 to master
+7b55f5a HEAD@{37}: commit: Merge branch 'hello-world-images02'
+5092400 HEAD@{38}: checkout: moving from master to hello-world-images02
+d16404a HEAD@{39}: reset: moving to HEAD
+d16404a HEAD@{40}: commit: muster update
+ff70b18 HEAD@{41}: checkout: moving from hello-world-images02 to master
+5092400 HEAD@{42}: commit: hw02 update
+db0d22c HEAD@{43}: checkout: moving from master to hello-world-images02
+ff70b18 HEAD@{44}: checkout: moving from master to master
+ff70b18 HEAD@{45}: commit (merge): masterupdate
+ab7cb82 HEAD@{46}: checkout: moving from hello-world-images02 to master
+db0d22c HEAD@{47}: commit: hw02 update
+439d974 HEAD@{48}: checkout: moving from master to hello-world-images02
+ab7cb82 HEAD@{49}: commit: masterupdate
+036e75a HEAD@{50}: checkout: moving from master to master
+036e75a HEAD@{51}: merge hello-world-images02: Merge made by the 'ort' strategy.
+1602dd9 HEAD@{52}: checkout: moving from hello-world-images02 to master
+439d974 HEAD@{53}: checkout: moving from master to hello-world-images02
+1602dd9 HEAD@{54}: checkout: moving from hello-world-images to master
+1602dd9 HEAD@{55}: checkout: moving from master to hello-world-images
+1602dd9 HEAD@{56}: merge hello-world-images: Fast-forward
+dd43a55 HEAD@{57}: checkout: moving from hello-world-images to master
+1602dd9 HEAD@{58}: checkout: moving from hello-world-images to hello-world-images
+1602dd9 HEAD@{59}: checkout: moving from hello-world-images02 to hello-world-images
+439d974 HEAD@{60}: checkout: moving from hello-world-images to hello-world-images02
+1602dd9 HEAD@{61}: checkout: moving from master to hello-world-images
+dd43a55 HEAD@{62}: checkout: moving from hello-world-images to master
+1602dd9 HEAD@{63}: checkout: moving from hello-world-images02 to hello-world-images
+439d974 HEAD@{64}: commit: Updated index.html with a new 02 line
+dd43a55 HEAD@{65}: checkout: moving from master to hello-world-images02
+dd43a55 HEAD@{66}: checkout: moving from hello-world-images02 to master
+dd43a55 HEAD@{67}: checkout: moving from master to hello-world-images02
+dd43a55 HEAD@{68}: checkout: moving from hello-world-images to master
+1602dd9 HEAD@{69}: checkout: moving from master to hello-world-images
+dd43a55 HEAD@{70}: checkout: moving from hello-world-images to master
+1602dd9 HEAD@{71}: commit: Added image to Hello World
+dd43a55 HEAD@{72}: checkout: moving from master to hello-world-images
+dd43a55 HEAD@{73}: commit: Updated index.html with a new line
+1ca2e6a HEAD@{74}: commit (initial): First release of Hello World!
